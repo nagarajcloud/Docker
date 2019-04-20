@@ -28,7 +28,7 @@ To run the docker container with Elastisearch 6.7.1
 	
 Thats it! An elasticsearch container is now ready to use"
 	
-Check whether the docker container is running on the server using below command
+To check whether the docker container is running on the server using below command
 		
 	docker ps
 
