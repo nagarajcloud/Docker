@@ -10,8 +10,8 @@ Note:
 	
 	2. Os version that i have used is "Ubuntu 18.04.2 LTS"
 
-# Prerequisites:
-
+Prerequisites
+---------------
 		1. Install docker package  - Reference: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
 
 To run the docker container with Elastisearch 6.7.1
